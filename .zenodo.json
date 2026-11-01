@@ -1,0 +1,12 @@
+{
+  "title": "tp53-predictor-benchmark: code and data for benchmarking TP53 missense pathogenicity predictors",
+  "upload_type": "software",
+  "description": "Code, processed datasets, results and molecular dynamics analysis files for: Cross-dataset recalibration and exploratory structural analysis of discordant TP53 missense variant predictions.",
+  "creators": [
+    {"name": "Ahmad, Rahaf M.", "affiliation": "United Arab Emirates University", "orcid": "0000-0002-7531-5264"},
+    {"name": "Ali, Bassam R.", "affiliation": "United Arab Emirates University", "orcid": "0000-0003-1306-6618"},
+    {"name": "Al Dhaheri, Noura", "affiliation": "United Arab Emirates University", "orcid": "0000-0002-1384-2915"}
+  ],
+  "license": "MIT",
+  "keywords": ["TP53", "missense variants", "pathogenicity prediction", "benchmarking", "variant classification", "molecular dynamics"]
+}

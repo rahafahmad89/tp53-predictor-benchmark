@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "tp53-predictor-benchmark"
+authors:
+  - family-names: Ahmad
+    given-names: Rahaf M.
+    orcid: "https://orcid.org/0000-0002-7531-5264"
+    affiliation: "United Arab Emirates University"
+  - family-names: Ali
+    given-names: Bassam R.
+    orcid: "https://orcid.org/0000-0003-1306-6618"
+    affiliation: "United Arab Emirates University"
+  - family-names: Al Dhaheri
+    given-names: Noura
+    orcid: "https://orcid.org/0000-0002-1384-2915"
+    affiliation: "United Arab Emirates University"
+license: MIT
+repository-code: "https://github.com/rahafahmad89/tp53-predictor-benchmark"
+version: "1.0.0"
+date-released: "2026-11-01"
+preferred-citation:
+  type: article
+  title: "Cross-dataset recalibration and exploratory structural analysis of discordant TP53 missense variant predictions"
+  authors:
+    - family-names: Ahmad
+      given-names: Rahaf M.
+    - family-names: Ali
+      given-names: Bassam R.
+    - family-names: Al Dhaheri
+      given-names: Noura
+  status: submitted

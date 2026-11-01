@@ -1,0 +1,17 @@
+work/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*:Zone.Identifier
+# Large or licence-restricted raw inputs: never commit
+*.xtc
+*.trr
+*.edr
+*.tpr
+*.cpt
+vep_tp53_*.txt
+vep_revision.txt
+vep_revision_raw.json
+TP53_cosmic*.tsv
+*cosmic*
+*CMC*
